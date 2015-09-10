@@ -7,3 +7,4 @@
 - [normalizr](https://github.com/gaearon/normalizr) - Normalizes nested JSON according to schema for Flux Stores
 - [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
+- [es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5)
