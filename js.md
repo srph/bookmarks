@@ -10,3 +10,4 @@
 - [es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5)
 - [skrollr](http://prinzhorn.github.io/skrollr/) - parallax scrolling for the masses
 - [Polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages.
+- [Chance.js](http://chancejs.com/)
