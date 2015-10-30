@@ -11,3 +11,4 @@
 - [skrollr](http://prinzhorn.github.io/skrollr/) - parallax scrolling for the masses
 - [Polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages.
 - [Chance.js](http://chancejs.com/) - A minimalist generator of random [1] strings, numbers, etc.
+- [Tether](https://github.com/HubSpot/tether) - A positioning engine to make overlays, tooltips and dropdowns better.
