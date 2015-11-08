@@ -14,3 +14,4 @@
 - [Tether](https://github.com/HubSpot/tether) - A positioning engine to make overlays, tooltips and dropdowns better.
 - [Vex](http://github.hubspot.com/vex/docs/welcome/) - Dialogs for the 21st century.
 - [annyang](https://github.com/TalAter/annyang) - Speech recognition for your site.
+- [fecha](https://github.com/taylorhakes/fecha) - Date formatting and parsing
