@@ -16,3 +16,4 @@
 - [annyang](https://github.com/TalAter/annyang) - Speech recognition for your site.
 - [fecha](https://github.com/taylorhakes/fecha) - Date formatting and parsing
 - [favicons](https://github.com/haydenbleasel/favicons) - Favicons generator for Node.js 
+- [Bliss](https://github.com/LeaVerou/bliss) - *Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you.*
