@@ -18,3 +18,4 @@
 - [favicons](https://github.com/haydenbleasel/favicons) - Favicons generator for Node.js 
 - [Bliss](https://github.com/LeaVerou/bliss) - *Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you.*
 - [sift.js](https://github.com/crcn/sift.js) - Filter arrays using mongodb queries.
+- [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail
