@@ -19,5 +19,7 @@
 - [Bliss](https://github.com/LeaVerou/bliss) - *Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you.*
 - [sift.js](https://github.com/crcn/sift.js) - Filter arrays using mongodb queries.
 - [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail
+- 
 - [Snap.svg](http://snapsvg.io/start/) - The JavaScript SVG library for the modern web.
 - [glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
+- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon
