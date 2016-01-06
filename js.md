@@ -23,3 +23,4 @@
 - [Snap.svg](http://snapsvg.io/start/) - The JavaScript SVG library for the modern web.
 - [glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon
+- [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
