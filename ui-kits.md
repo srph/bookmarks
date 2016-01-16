@@ -5,5 +5,5 @@
 - [Walmart Labs](http://walmartlabs.github.io/web-style-guide/)
 - [PrimerCSS](http://primercss.io)
 - [Skeleton CSS](http://getskeleton.org)
-- [Semantic UI](http://semantic-ui.net)
+- [Semantic UI](http://semantic-ui.com)
 - [UIKit](https://github.com/visionmedia/uikit)
