@@ -7,3 +7,4 @@
 - [Skeleton CSS](http://getskeleton.org)
 - [Semantic UI](http://semantic-ui.com)
 - [UIKit](https://github.com/visionmedia/uikit)
+- [SUIT CSS](https://github.com/suitcss)
