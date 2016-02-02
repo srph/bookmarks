@@ -8,3 +8,4 @@
 - [Semantic UI](http://semantic-ui.com)
 - [UIKit](https://github.com/visionmedia/uikit)
 - [SUIT CSS](https://github.com/suitcss)
+- [Elemental UI](https://github.com/elementalui/elemental)
