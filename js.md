@@ -24,6 +24,7 @@
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [checkit](https://github.com/tgriesser/checkit) - simple, flexible validations for node and the browser
+- [break-on-access](https://github.com/paulirish/break-on-access) - break on access to a property
 
 ## Node
 
