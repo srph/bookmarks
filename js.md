@@ -25,6 +25,7 @@
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [checkit](https://github.com/tgriesser/checkit) - simple, flexible validations for node and the browser
 - [break-on-access](https://github.com/paulirish/break-on-access) - break on access to a property
+- [turbolinks](https://github.com/turbolinks/turbolinks) - Makes navigating your web application faster
 
 ## Node
 
