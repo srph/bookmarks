@@ -27,6 +27,7 @@
 - [break-on-access](https://github.com/paulirish/break-on-access) - break on access to a property
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Makes navigating your web application faster
 - [vibrant.js](http://jariz.github.io/vibrant.js/) - Extract prominent colors from an image.
+- [invariant](https://github.com/zertosh/invariant) - invariant
 
 ## Node
 
