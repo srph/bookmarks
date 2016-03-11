@@ -26,6 +26,7 @@
 - [checkit](https://github.com/tgriesser/checkit) - simple, flexible validations for node and the browser
 - [break-on-access](https://github.com/paulirish/break-on-access) - break on access to a property
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Makes navigating your web application faster
+- [vibrant.js](http://jariz.github.io/vibrant.js/) - Extract prominent colors from an image.
 
 ## Node
 
