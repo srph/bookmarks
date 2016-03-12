@@ -28,6 +28,9 @@
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Makes navigating your web application faster
 - [vibrant.js](http://jariz.github.io/vibrant.js/) - Extract prominent colors from an image.
 - [invariant](https://github.com/zertosh/invariant) - invariant
+- [wikidb](https://github.com/substack/wikidb) - database for offline-first distributed wikis
+- [wsnc](https://github.com/substack/wsnc) - websocket netcat
+- [websocket-stream](https://github.com/maxogden/websocket-stream) - websockets with the node stream API
 
 ## Node
 
