@@ -31,6 +31,7 @@
 - [wikidb](https://github.com/substack/wikidb) - database for offline-first distributed wikis
 - [wsnc](https://github.com/substack/wsnc) - websocket netcat
 - [websocket-stream](https://github.com/maxogden/websocket-stream) - websockets with the node stream API
+- [dom-helpers](https://github.com/react-bootstrap/dom-helpers) - tiny, extremely modular, DOM helper library for IE8+
 
 ## Node
 
