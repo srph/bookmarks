@@ -32,6 +32,7 @@
 - [wsnc](https://github.com/substack/wsnc) - websocket netcat
 - [websocket-stream](https://github.com/maxogden/websocket-stream) - websockets with the node stream API
 - [dom-helpers](https://github.com/react-bootstrap/dom-helpers) - tiny, extremely modular, DOM helper library for IE8+
+- [JavaScript error logging services](https://gist.github.com/cheeaun/5835757)
 
 ## Node
 
