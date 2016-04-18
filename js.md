@@ -38,3 +38,4 @@
 
 - [AdonisJS](http://adonisjs.com/) - MVC Framework for NodeJs to write webapps with less code
 - [node-qt](https://github.com/arturadib/node-qt) - C++ Qt bindings for Node.js
+- [quibble](https://github.com/testdouble/quibble) - Makes it easy to replace require'd dependencies.
